@@ -1,0 +1,10 @@
+Variables: se refiere a cosas que son suceptibles a ser modificados (variar) y en programación es un espacio de memoria donde se alojara información, llamo a la atencion que es suceptible a cambio ya que en recorrido del programa esa infomacion almacenada en dicha variable podra permacer intacta o cambiar a lo largo de este recorrido.
+
+Strings: del ingles cadena es una secuencia de 0 o mas caracteres y se utilizan para almacenar caracteres individuales, palabras y oraciones completas, una variable tipo string permite almacenar una cadena de caracteres y manipularla cuando sea requerido.
+
+Funciones (argumentos, return):Una función es un fragmento de código que puede ser invocado para realizar tareas o devolver un resultado y su ventaja es que las podemos reutilizar y asi no repetir instrucciones y tener nuestro codigo lo mas prolijo posible. Los argumentos son las variables que contienen la informacion que necesita la función para arrojar un resultado, las mismas estan contenidas dentro de un parentesis dentro de la función. El return nos devuelve el valor de lo que se encuentra dentro de la función y la funcion se detiene inmediatamente toca al reurn.
+
+Declaraciones if: esta permite que un programa ejecute unas instrucciones cuando se cumple una condicion, si es positivo dicha condicion realizara una operación, si la condicion no se cumple la sentencia realizara otras opciones.
+
+
+Valores booleanos (true, false): tienen solo dos posibles valores que son verdadero o falso y en ella unicamente contendra información que tendra esos dos estados. Y aunque suene a algo sencillo su utilización es bastante extensa
